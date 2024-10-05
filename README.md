@@ -4,6 +4,7 @@ DataInsight Pro is a powerful, interactive web application built with Streamlit 
 Features
 
 ## Data Upload and Preprocessing
+![image](https://github.com/user-attachments/assets/e3b79ae5-c62c-4f24-8f94-f2188d9d890c)
 
 CSV file upload functionality
 Automatic removal of rows with NaN values
